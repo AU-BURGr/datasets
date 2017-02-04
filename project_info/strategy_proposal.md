@@ -62,7 +62,7 @@ The goal was to have datasets that have potentially interesting groups ([classif
 
 * **Respiratory health**: [Behavioral Risk Factor Surveillance System (BRFSS) Prevalence Data](https://www.cdc.gov/asthma/brfss/default.htm)
 
-* **Transport**: [ESRI Demographics: Traffic Counts](https://doc.arcgis.com/en/esri-demographics/data/traffic-counts.htm)
+* **Transport**: [US Federal Highway Administration (FHWA)](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm) (the sheets called **Page 4**, **Page 5** and **Page 6** of the _**xls**_ file hold the key raw data)
 
 * **Environmental health**: EPA Emissions data - [Average Annual Emissions by State](https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data) is a good place to start. but other options are (note: composition not explored):
 
